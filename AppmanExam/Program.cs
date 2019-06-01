@@ -23,7 +23,7 @@ namespace AppmanExam
             if (type == "1")
             {
                 int[] input = new int[] { };
-                Console.WriteLine("Values Example > 3, 4, 8, 13, 18, 19, 23");
+                Console.WriteLine("Values Example > 3,4,8,13,18,19,23");
                 Console.WriteLine("Input Values >");
                 values = Console.ReadLine();
                 input = Array.ConvertAll(values.Split(','), s => int.Parse(s));
