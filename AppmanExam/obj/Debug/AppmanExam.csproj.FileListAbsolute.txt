@@ -1,0 +1,7 @@
+A:\AppmanExam\AppmanExam\bin\Debug\AppmanExam.exe.config
+A:\AppmanExam\AppmanExam\bin\Debug\AppmanExam.exe
+A:\AppmanExam\AppmanExam\bin\Debug\AppmanExam.pdb
+A:\AppmanExam\AppmanExam\obj\Debug\AppmanExam.csprojAssemblyReference.cache
+A:\AppmanExam\AppmanExam\obj\Debug\AppmanExam.csproj.CoreCompileInputs.cache
+A:\AppmanExam\AppmanExam\obj\Debug\AppmanExam.exe
+A:\AppmanExam\AppmanExam\obj\Debug\AppmanExam.pdb
